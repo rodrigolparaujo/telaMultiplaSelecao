@@ -52,3 +52,26 @@ User Function FMULTIOP(cTabela,cTitulo,l1Elem,lTipoRet)
 	
 	dbSelectArea(cAlias) // Retorna Alias	
 Return( IF( lTipoRet , .T. , MvParDef ) )
+
+
+/*
+Sintaxe da função f_Opcoes()
+Function f_Opcoes(	uVarRet			,;	//Variavel de Retorno
+			cTitulo			,;	//Titulo da Coluna com as opcoes
+			aOpcoes			,;	//Opcoes de Escolha (Array de Opcoes)
+			cOpcoes			,;	//String de Opcoes para Retorno
+			nLin1			,;	//Nao Utilizado
+			nCol1			,;	//Nao Utilizado
+			l1Elem			,;	//Se a Selecao sera de apenas 1 Elemento por vez
+			nTam			,;	//Tamanho da Chave
+			nElemRet		,;	//No maximo de elementos na variavel de retorno
+			lMultSelect		,;	//Inclui Botoes para Selecao de Multiplos Itens
+			lComboBox		,;	//Se as opcoes serao montadas a partir de ComboBox de Campo ( X3_CBOX )
+			cCampo			,;	//Qual o Campo para a Montagem do aOpcoes
+			lNotOrdena		,;	//Nao Permite a Ordenacao
+			lNotPesq		,;	//Nao Permite a Pesquisa	
+			lForceRetArr		,;	//Forca o Retorno Como Array
+			cF3			 ;	//Consulta F3	
+		  )
+
+*/
