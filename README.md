@@ -1,3 +1,5 @@
+<a href="https://server.nitrado.net/toplist/view/17500552"><img src="https://server.nitrado.net/banner/big/17500552/2" /></a>
+
 ## Criando um janela de multiplas opções para retornar o resultado em um campo
 <p><img src="/resources/multtela005.png"></p>
 
@@ -26,4 +28,4 @@ No Configurador ou APSDU, vá no campo que desejar e informe o nome de sua consu
 Nota: A quantidade de registros selecionados dependerá do tamanho do campo que irá receber, então se o campo é de tamanho 6, apenas 6 registros serão selecionados.
 Para, retornar apenas um registro, informe no parâmetro l1Elem como verdadeiro (.T.)
 
-<center><p><a href="https://dayz-servers.org/server/170059/"><img src="https://dayz-servers.org/server/170059/banners/leaderboard-1.png" border="0" class="img-fluid"></a></p></center>
+<a href="https://server.nitrado.net/toplist/view/17383816"><img src="https://server.nitrado.net/banner/big/17383816/6" /></a>
